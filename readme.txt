@@ -18,3 +18,6 @@ This tool is released for educational purposes only. We are not responsible for
 any map piraty or other issues caused.
 
 CoDEmanX and Daevius
+
+UPDATE 2024:
+I've fixed decompilation for CoD1 regarding material namesz now they're decompiled corrrctly
